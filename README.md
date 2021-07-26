@@ -1,23 +1,7 @@
-# IMEDNet: Image-to-Motion Encoder-Decoder Network(s)
+# Learning dynamic movement primitives from images using deep learning
 
-Neural networks for transforming MNIST digit images into dynamic movement primitives (DMPs).
-
-## Install
-
-### Cloning
-
-The repository uses [Git LFS](https://github.com/git-lfs/git-lfs) to manage large data files and models.
-
-To clone the repository without data and model files, run:
-```bash
-$ GIT_LFS_SKIP_SMUDGE=1 git clone git@repo.ijs.si:deep_learning/imednet.git
-```
-
-Afterwards, to pull the data and model files, run:
-```bash
-$ cd imednet
-$ git lfs pull
-```
+# MSc project of Jiyang Zhao
+# email:ml1926jz@leeds.ac.uk
 
 ### Prerequisites:
 
