@@ -8,7 +8,7 @@
 <br/>***Notebooks***: Test the Notebooks with trained models and data 
 <br/>***Scripts***: the py file that stores the training procedure 
 <br/>***Models***: Stores the trained model files 
-<br/>If you want to redo the experiment, you should create another data folder to store the experimental data. Here is the data set download method used in this paper: I uploaded the data/ and models/ directories to https://portal.ijs.si/nextcloud/s/mnp2DD7qCYzyPd5
+<br/>If you want to redo the experiment, you should create ***Models*** folder to store the experimental data. Here is the data set download method used in this paper: I uploaded the data/ and models/ directories to https://portal.ijs.si/nextcloud/s/mnp2DD7qCYzyPd5
 ### Prerequisites:
 
 * [pytorch](http://pytorch.org/)
